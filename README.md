@@ -13,6 +13,9 @@ A minimal, responsive weather forecast app that provides real-time temperature, 
 
 ---
 
-### 🔧 Tech Stack
-- React + Vite
-- OpenWeatherMap API
+### 🛠️ Tech Stack
+
+- **Frontend**: React.js, Vite
+- **Styling**: Material UI
+- **API Integration**: OpenWeatherMap API
+- **Deployment**: GitHub Pages
