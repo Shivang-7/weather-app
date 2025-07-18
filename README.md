@@ -9,7 +9,7 @@ A minimal, responsive weather forecast app that provides real-time temperature, 
 ### 🌟 Features
 - 🌡️ Real-time temperature, humidity, and weather condition display  
 - 🎨 Dynamic background changes based on temperature and weather  
-- 📱 Fully responsive UI built with Tailwind CSS
+- 📱 Fully responsive UI built with Material UI
 
 ---
 
